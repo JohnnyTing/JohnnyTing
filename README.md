@@ -1,7 +1,11 @@
 ### I'm JohnnyTing
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JohnnyTing&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=JohnnyTing&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=ambient_gradient)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JohnnyTing&langs_count=10&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=JohnnyTing&langs_count=10&theme=ambient_gradient)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JohnnyTing&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=JohnnyTing&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=ambient_gradient)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JohnnyTing&repo=JohnnyTing%2Frabida&show_owner=true&theme=transparent)](https://github.com/JohnnyTing/rabida)[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JohnnyTing&repo=JohnnyTing%2Fdsh-official-homepage-theme&show_owner=true&theme=transparent)](https://github.com/JohnnyTing/dsh-official-homepage-theme)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JohnnyTing&langs_count=10&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=JohnnyTing&langs_count=10&theme=ambient_gradient)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JohnnyTing&repo=JohnnyTing%2Frabida&show_owner=true&theme=transparent)](https://github.com/JohnnyTing/rabida)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JohnnyTing&repo=JohnnyTing%2Fdsh-official-homepage-theme&show_owner=true&theme=transparent)](https://github.com/JohnnyTing/dsh-official-homepage-theme)
 
 
 <!--
