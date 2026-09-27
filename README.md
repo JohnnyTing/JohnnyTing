@@ -3,8 +3,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JohnnyTing&langs_count=10&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=JohnnyTing&langs_count=10&theme=ambient_gradient)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JohnnyTing&repo=JohnnyTing%2Frabida&show_owner=true&theme=transparent)](https://github.com/JohnnyTing/rabida)   [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JohnnyTing&repo=JohnnyTing%2Fdsh-official-homepage-theme&show_owner=true&theme=transparent)](https://github.com/JohnnyTing/dsh-official-homepage-theme)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JohnnyTing&repo=JohnnyTing%2Frabida&show_owner=true&theme=transparent)](https://github.com/JohnnyTing/rabida)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JohnnyTing&repo=JohnnyTing%2Fdsh-official-homepage-theme&show_owner=true&theme=transparent)](https://github.com/JohnnyTing/dsh-official-homepage-theme)
 
 <!--
 **JohnnyTing/JohnnyTing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
